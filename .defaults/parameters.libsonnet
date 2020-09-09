@@ -1,4 +1,4 @@
 {
-    blockDefaultHeight:: 8,
-    blockDefaultWidth:: 8
+    blockHeight:: 8,
+    blockWidth:: 8
 }
